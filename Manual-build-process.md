@@ -1,9 +1,14 @@
 This guide is meant for developers who wants to customize or build `Fast Screen Capture` from sources.
 
-Fast Screen Capture uses Java 14 Package API to create the Windows installer.
+Fast Screen Capture uses `Java 14` Package API to create the Windows installer.
 
 If you are running Windows 8 or Windows 10 you can use Desktop Duplication API (DDUPL), it's the fastest implementation yet, no lag, no stutter, very small usage of resources. DDUPL is accessed via JNA using the GStreamer bindings for Java.
-GStreamer is bundled with the installer thanks for the maven-compiler-plugin. 
+`GStreamer` is bundled with the installer thanks for the maven-compiler-plugin. 
+
+If you want to use your custom GStreamer SDK you need:
+- GStreamer core
+- GStreamer system plugins
+- GStreamer system plugins for capturing
 
 Wix Toolset binaries is in `/wix311-binaries/` folder.
 
