@@ -1,4 +1,4 @@
 Welcome to the JavaFastScreenCapture wiki!
 
-- [Build from source](https://github.com/sblantipodi/JavaFastScreenCapture/wiki/Build-from-source)
+- [Manual build process](https://github.com/sblantipodi/JavaFastScreenCapture/wiki/Manual-build-process)
 - [YouTube Videos](https://github.com/sblantipodi/JavaFastScreenCapture/wiki/YouTube-Videos)
