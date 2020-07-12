@@ -13,7 +13,7 @@ Wix Toolset binaries is in `/wix311-binaries/` folder.
 - mvn install
 Maven will create a `FastScreenCapture-x.x.x-jar-with-dependencies.jar` that will be bundled with the installer. The jar is executable.
 
-## Create the binary installer for Windows
+## Create binary installer for Windows
 To create the binary installer, simply run:
 - cd wix311-binaries  
 - jpackage -i ../target --main-class org.dpsoftware.FastScreenCapture --main-jar JavaFastScreenCapture-jar-with-dependencies.jar --icon ../data/img/java_fast_screen_capture_logo.ico --win-menu --win-menu-group Ambilight --copyright "Davide Perini" --name "Fast Screen Capture"  --vendor DPsoftware --win-dir-chooser --win-shortcut
