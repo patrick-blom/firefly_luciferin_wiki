@@ -21,7 +21,6 @@ This software have an easy GUI and it works great with ESP devices.
 - Please download and install Firefly Luciferin, you can download it from [here](https://github.com/sblantipodi/firefly_luciferin/releases)
 
 ## Connect the LED strip to your microcontroller
-- This is the schematic I use:  
 
 ![CIRCUITS](https://github.com/sblantipodi/pc_ambilight/blob/master/data/img/ambilight_bb.png)
 If you have a low quality microcontroller, capacitor, resistance and logic level converter helps "stabilizing the circuit", there are many people who don't use those extra components.
