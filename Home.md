@@ -7,7 +7,7 @@
 **Firefly Luciferin** is a `Java Fast Screen Capture PC` software designed for **Glow Worm Luciferin** `firmware`,   
 those two software creates the perfect Bias Lighting and Ambient Light system for PC.
 
-Differently from other solutions, Firefly and Glow Worms Luciferin are designed to work togheter for the best experience possible.
+**Differently from other solutions, `Firefly and Glow Worms Luciferin` are designed to work togheter for the best experience possible.**
 
 Why don't you build your own `Luciferin`?  
 Here a [**Quick Start guide**](https://github.com/sblantipodi/firefly_luciferin/wiki/Quick-start)
