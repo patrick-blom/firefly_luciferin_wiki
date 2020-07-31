@@ -6,7 +6,7 @@
 [YouTube Videos](https://github.com/sblantipodi/firefly_luciferin/wiki/YouTube-Videos) 
 
 ### Advanced
-[Compatible Hardware](https://github.com/sblantipodi/glow_worm_luciferin/releases)   
+[Compatible Hardware](https://github.com/sblantipodi/firefly_luciferin/wiki/Compatible-Hardware)   
 [Home Automation configs](https://github.com/sblantipodi/glow_worm_luciferin/releases)   
 [Remote Access](https://github.com/sblantipodi/glow_worm_luciferin/releases)   
 
