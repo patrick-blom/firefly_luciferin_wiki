@@ -9,3 +9,7 @@
 3) A WS2812B LED strip
 4) A power supply for the LED strip
 5) An Home Automation system ex: Home Assistant, OpenHAB, ecc. (optional, not strictly needed)
+
+## Install the firmware on your microcontroller
+`ESP8266 or ESP32` are the preferred microcontrollers and have their own ready to use firmware, if you want to use another microcontroller you can build your own firmware.
+
