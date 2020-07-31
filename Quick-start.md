@@ -11,8 +11,8 @@
 5) An Home Automation system ex: Home Assistant, OpenHAB, ecc. (optional, not strictly needed)
 
 ## Install Glow Worm Luciferin firmware on your microcontroller
-`ESP8266` is the preferred microcontroller and have its own ready to use firmware, if you want to use another microcontroller you can build your own firmware.
 <img align="right" width="150" src="https://www.wemos.cc/en/latest/_images/d1_mini_v3.1.0_1_16x16.jpg">
+`ESP8266` is the preferred microcontroller and have its own ready to use firmware, if you want to use another microcontroller you can build your own firmware.
 
 
 - Please download the firmware from [here](https://github.com/sblantipodi/glow_worm_luciferin/releases)
