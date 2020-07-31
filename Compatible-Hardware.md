@@ -3,7 +3,7 @@
 ## Lolin D1 Mini ESP8266
 |  ESP                 |  Board                         |
 |----------------------|--------------------------------|
-|<a href="https://www.jetbrains.com/"><img width="200" src="https://github.com/wemos/docs/raw/master/docs/en/_static/boards/d1_mini_v3.1.0_1_16x16.jpg"></a>| For the <a href="https://www.jetbrains.com/clion">CLion IDE</a> licenses.|
+|<a href="https://www.jetbrains.com/"><img width="400" src="https://github.com/wemos/docs/raw/master/docs/en/_static/boards/d1_mini_v3.1.0_1_16x16.jpg"></a>|<a href="https://www.jetbrains.com/"><img width="400" src="https://github.com/wemos/docs/raw/master/docs/en/_static/boards/d1_mini_v3.1.0_2_16x16.jpg"></a>|
 
 
 A mini wifi board with 4MB flash based on ESP-8266EX.
