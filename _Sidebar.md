@@ -1,5 +1,5 @@
 ### Basics
-[Quick Start](https://github.com/sblantipodi/glow_worm_luciferin/quickstart)  
+[Quick Start](https://github.com/sblantipodi/firefly_luciferin/wiki/Quick-start)  
 [Settings](https://github.com/sblantipodi/glow_worm_luciferin/releases)  
 [Firefly Luciferin Binaries](https://github.com/sblantipodi/firefly_luciferin/releases)   
 [Glow Worm Luciferin Binaries](https://github.com/sblantipodi/glow_worm_luciferin/releases)   
