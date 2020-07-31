@@ -32,7 +32,7 @@ WS2812B led strip is cheap and easy to use and it looks awesome, 5V is easy to m
 ## Install LED strip behind you monitor
 - This is an easy step, a little bit of double sided tape, easy to remove, easy to fix.  
 
-![CIRCUITS](https://raw.githubusercontent.com/sblantipodi/firefly_luciferin/master/data/img/moitorled.png)
+<img align="center" width="500" src="https://raw.githubusercontent.com/sblantipodi/firefly_luciferin/master/data/img/moitorled.png">
 
 
 ## Install Firefly Luciferin Java fast screen capture software on your PC  
