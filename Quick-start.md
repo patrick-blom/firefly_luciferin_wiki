@@ -13,5 +13,5 @@
 ## Install the firmware on your microcontroller
 `ESP8266 or ESP32` are the preferred microcontrollers and have their own ready to use firmware, if you want to use another microcontroller you can build your own firmware.
 
-Please download the firmware from [here](https://github.com/sblantipodi/glow_worm_luciferin/releases)
+- Please download the firmware from [here](https://github.com/sblantipodi/glow_worm_luciferin/releases)
 
