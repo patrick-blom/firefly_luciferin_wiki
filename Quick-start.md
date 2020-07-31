@@ -11,7 +11,7 @@
 5) An Home Automation system ex: Home Assistant, OpenHAB, ecc. (optional, not strictly needed)
 
 ## Install Glow Worm Luciferin firmware on your microcontroller
-<img align="right" width="170" src="https://www.wemos.cc/en/latest/_images/d1_mini_v3.1.0_1_16x16.jpg">  
+<a href="https://www.wemos.cc/en/latest/d1/d1_mini.html"><img align="right" width="170" src="https://www.wemos.cc/en/latest/_images/d1_mini_v3.1.0_1_16x16.jpg"></a>  
 
 `ESP8266` is the preferred microcontroller and have its own ready to use firmware, if you want to use another microcontroller you can build your own firmware. Wemos and Lolin D1 Mini microcontrollers are premium one. You can't go wrong with them.
 - Please install the CH340 driver, download [here](https://www.wemos.cc/en/latest/ch340_driver.html)
