@@ -14,4 +14,5 @@
 `ESP8266 or ESP32` are the preferred microcontrollers and have their own ready to use firmware, if you want to use another microcontroller you can build your own firmware.
 
 - Please download the firmware from [here](https://github.com/sblantipodi/glow_worm_luciferin/releases)
-- Flash the firmware on your microcontroller. You can download ESP Home Flasher from [here](https://github.com/esphome/esphome-flasher/releases). This software have an easy GUI and it works great with ESP devices.
+- Flash the firmware on your microcontroller. You can download ESP Home Flasher from [here](https://github.com/esphome/esphome-flasher/releases).  
+This software have an easy GUI and it works great with ESP devices.
