@@ -12,7 +12,7 @@
 
 ## Install Glow Worm Luciferin firmware on your microcontroller
 `ESP8266` is the preferred microcontroller and have its own ready to use firmware, if you want to use another microcontroller you can build your own firmware.
-<img align="right" width="200" src="https://www.wemos.cc/en/latest/_images/d1_mini_v3.1.0_1_16x16.jpg">
+<img align="right" width="150" src="https://www.wemos.cc/en/latest/_images/d1_mini_v3.1.0_1_16x16.jpg">
 
 
 - Please download the firmware from [here](https://github.com/sblantipodi/glow_worm_luciferin/releases)
