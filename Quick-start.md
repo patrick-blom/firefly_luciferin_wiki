@@ -16,3 +16,5 @@
 - Please download the firmware from [here](https://github.com/sblantipodi/glow_worm_luciferin/releases)
 - Flash the firmware on your microcontroller. You can download ESP Home Flasher from [here](https://github.com/esphome/esphome-flasher/releases).  
 This software have an easy GUI and it works great with ESP devices.
+
+**If you want to use WiFi and connect the microcontroller to an MQTT network for remote management or to integrate `Luciferin` with an home automation system like Home Assistant or OpenHAB
