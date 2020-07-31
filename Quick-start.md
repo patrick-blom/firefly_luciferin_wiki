@@ -40,5 +40,5 @@ WS2812B led strip is cheap and easy to use and it looks awesome, 5V is easy to m
 - Please download and install `Firefly Luciferin` on your PC, you can download it from [here](https://github.com/sblantipodi/firefly_luciferin/releases)
 - Once installed the software, start it and configure it via the graphical user interface. Defaults are good for most people.  
 
-![IMAGE ALT TEXT HERE](https://github.com/sblantipodi/firefly_luciferin/blob/master/data/img/settings_screen.png)
+![Luciferin](https://github.com/sblantipodi/firefly_luciferin/blob/master/data/img/settings_screen.png)
 
