@@ -1,4 +1,4 @@
-Welcome to the **Luciferin Project** wiki!
+## Welcome to the **Luciferin Project** wiki!
 
 **Luciferin** is a generic term for the light-emitting compound found in organisms that generate bioluminescence like Fireflies and Glow Worms.  
 
