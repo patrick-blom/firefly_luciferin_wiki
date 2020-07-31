@@ -1,4 +1,4 @@
-This guide is meant for developers who wants to customize or build `Fast Screen Capture` from sources.
+This guide is meant for developers who wants to customize or build `firefly_luciferin` from sources.
 
 Fast Screen Capture uses `Java 14` Package API to create the Windows installer.
 
