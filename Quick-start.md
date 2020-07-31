@@ -30,7 +30,9 @@ If you have a low quality microcontroller, capacitor, resistance and logic level
 WS2812B led strip is cheap and easy to use and it looks awesome, 5V is easy to manage with a microcontroller, buy a compatible power supply and you are set.
 
 ## Install LED strip behind you monitor.
-<img align="left" width="500" src="https://raw.githubusercontent.com/sblantipodi/firefly_luciferin/master/data/img/moitorled.png">
+- This is an easy step, a little bit of double sided tape, easy to remove, easy to fix.
+<img align="right" width="350" src="https://raw.githubusercontent.com/sblantipodi/firefly_luciferin/master/data/img/moitorled.png">  
+
 
 ## Install Firefly Luciferin Java fast screen capture software on your PC  
 
