@@ -1,8 +1,8 @@
 ### Basics
 [Quick Start](https://github.com/sblantipodi/glow_worm_luciferin/quickstart)  
 [Settings](https://github.com/sblantipodi/glow_worm_luciferin/releases)  
-[Firefly Luciferin Binaries and releases](https://github.com/sblantipodi/firefly_luciferin/releases)   
-[Glow Worm Luciferin Binaries and releases](https://github.com/sblantipodi/glow_worm_luciferin/releases)   
+[Firefly Luciferin Binaries](https://github.com/sblantipodi/firefly_luciferin/releases)   
+[Glow Worm Luciferin Binaries](https://github.com/sblantipodi/glow_worm_luciferin/releases)   
 [YouTube Videos](https://github.com/sblantipodi/firefly_luciferin/wiki/YouTube-Videos)
 
 ### Developers corner
