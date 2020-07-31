@@ -1,4 +1,5 @@
 ## What you don't need  
+<img align="right" width="100" height="100" src="https://github.com/sblantipodi/firefly_luciferin/blob/master/data/img/java_fast_screen_capture_logo.png">
 
 1) You don't need to be a developer
 2) You don't need to be an electrical engineer
