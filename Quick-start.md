@@ -36,8 +36,3 @@ WS2812B led strip is cheap and easy to use and it looks awesome, 5V is easy to m
 
 ![IMAGE ALT TEXT HERE](https://github.com/sblantipodi/firefly_luciferin/blob/master/data/img/settings_screen.png)
 
-
-
-
------
-**If you want to use WiFi and connect the microcontroller to an MQTT network for remote management or to integrate `Luciferin` with an home automation system like Home Assistant or OpenHAB
