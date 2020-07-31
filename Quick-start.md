@@ -21,7 +21,7 @@ This software have an easy GUI and it works great with ESP devices.
 
 
 ## Install Firefly Luciferin Java fast screen capture software on your PC
-- Please download and install Firefly Luciferin, you can download it from [here](https://github.com/sblantipodi/firefly_luciferin/releases)
+- Please download and install Firefly Luciferin on your PC, you can download it from [here](https://github.com/sblantipodi/firefly_luciferin/releases)
 
 ## Connect the LED strip to your microcontroller
 
