@@ -9,3 +9,7 @@ those two software creates the perfect Bias Lighting and Ambient Light system fo
 
 Differently from other solutions, Firefly and Glow Worms Luciferin are designed to work togheter for the best experience possible.
 
+Glow Worm Luciferin + Firefly Luciferin (click to watch it on YouTube)
+[![IMAGE ALT TEXT HERE](https://github.com/sblantipodi/pc_ambilight/blob/master/data/img/pc_ambilight.png)](https://www.youtube.com/watch?v=68pnR5HMCTU)
+
+
