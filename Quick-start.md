@@ -22,6 +22,11 @@
 - Flash the firmware on your microcontroller. You can download ESP Home Flasher from [here](https://github.com/esphome/esphome-flasher/releases).  
 This software have an easy GUI and it works great with ESP devices.
 
+## Connect the LED strip to your microcontroller  
+
+![CIRCUITS](https://github.com/sblantipodi/pc_ambilight/blob/master/data/img/ambilight_bb.png)
+If you have a low quality microcontroller, capacitor, resistance and logic level converter helps "stabilizing the circuit", there are many people who don't use those extra components.
+WS2812B led strip is cheap and easy to use and it looks awesome, 5V is easy to manage with a microcontroller, buy a compatible power supply and you are set.
 
 ## Install Firefly Luciferin Java fast screen capture software on your PC  
 
@@ -30,10 +35,7 @@ This software have an easy GUI and it works great with ESP devices.
 
 ![IMAGE ALT TEXT HERE](https://github.com/sblantipodi/firefly_luciferin/blob/master/data/img/settings_screen.png)
 
-## Connect the LED strip to your microcontroller  
 
-![CIRCUITS](https://github.com/sblantipodi/pc_ambilight/blob/master/data/img/ambilight_bb.png)
-If you have a low quality microcontroller, capacitor, resistance and logic level converter helps "stabilizing the circuit", there are many people who don't use those extra components.
 
 
 -----
