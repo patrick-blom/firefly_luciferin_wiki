@@ -7,7 +7,7 @@
 lights/glowwormluciferin/set
 ```
 
-#### Turn ON/OFF the LED strip remotely, apply light effects  
+## Turn ON/OFF the LED strip remotely, apply light effects  
 
 ```yaml
 {"state": "ON"}
