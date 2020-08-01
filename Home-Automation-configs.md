@@ -164,4 +164,4 @@ google_assistant:
       room: 'Roomname'
 ```  
   
-Be sure that your `ESP8266` is connected to WiFi/MQTT network, [quick guide here](https://github.com/sblantipodi/firefly_luciferin/wiki/Remote-Access)
+Be sure that your `ESP8266` is connected to WiFi/MQTT network, [quick guide here](https://github.com/sblantipodi/firefly_luciferin/wiki/Remote-Access).
