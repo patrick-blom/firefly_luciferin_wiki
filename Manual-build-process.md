@@ -1,6 +1,6 @@
-This guide is meant for developers who wants to customize or build `firefly_luciferin` from sources.
+This guide is meant for developers who wants to customize or build **Firefly Luciferin** from sources.
 
-Fast Screen Capture uses `Java 14` Package API to create the Windows installer.
+**Firefly Luciferin** uses `Java 14` Package API to create the Windows installer.
 
 If you are running Windows 8 or Windows 10 you can use Desktop Duplication API (DDUPL), it's the fastest implementation yet, no lag, no stutter, very small usage of resources. DDUPL is accessed via JNA using the GStreamer bindings for Java.
 `GStreamer` is bundled with the installer thanks for the maven-compiler-plugin. 
