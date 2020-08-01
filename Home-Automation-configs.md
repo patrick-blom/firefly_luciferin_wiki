@@ -149,7 +149,7 @@ homeassistant:
 ```
 
 ## Google Home integration via HA
-Please configure Google Home with Home Assistant,
+Please configure [Google Home with Home Assistant](https://www.home-assistant.io/integrations/google_assistant),
 then add this lines to your `configuration.yaml` file
 
 ```yaml
