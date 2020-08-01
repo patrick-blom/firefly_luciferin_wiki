@@ -140,3 +140,10 @@ switch:
     payload_on: "ON"
     payload_off: "OFF"  
 ```
+
+- Add the package to your `configuration.yaml`
+```yaml
+homeassistant:
+  packages:
+    glow_worm_luciferin: !include glow_worm_luciferin/glow_worm_luciferin.yaml
+```
