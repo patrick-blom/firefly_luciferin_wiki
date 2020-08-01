@@ -29,6 +29,6 @@ ledMatrix:                // Auto generated LED Matrix
   ...
 ```
 
-GUI offers a test image to test the LEDs behind your monitor.  
+GUI offers a dynamically generated test image to test the LEDs behind your monitor.  
 
 ![](https://github.com/sblantipodi/firefly_luciferin/blob/master/data/img/testimage_luciferini.jpg?raw=true)
