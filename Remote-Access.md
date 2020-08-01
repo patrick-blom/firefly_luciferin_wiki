@@ -43,5 +43,12 @@ Those are the supported effects:
 - solid
 - twinkle
 
-Connect the `ESP8266` microcontroller running the **Glow Worm Luciferin** firmware to the WiFi and MQTT network.
-![SCREENSHOT](https://github.com/sblantipodi/pc_ambilight/blob/master/data/img/HA_mobile_client_screenshot.jpg)
+
+## Connect to the WiFi and MQTT network.
+Thanks to [Arduino Bootstrapper], **Glow Worm Luciferin** firmware starts an access point for easy configuration via a mobile phone.  
+You can connect to the AP with your mobile, go to http://192.168.4.1 to access the GUI  
+that will let you enter all the passwords without the needs of hardcoding them.
+ 
+<p align="center">
+  <img width="450" src="https://raw.githubusercontent.com/sblantipodi/arduino_bootstrapper/master/data/img/arduinobootstrapper.png">
+</p>
