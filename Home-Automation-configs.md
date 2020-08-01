@@ -147,7 +147,9 @@ homeassistant:
   packages:
     glow_worm_luciferin: !include glow_worm_luciferin/glow_worm_luciferin.yaml
 ```
-
+  
+![SCREENSHOT](https://github.com/sblantipodi/pc_ambilight/blob/master/data/img/HA_mobile_client_screenshot.jpg)
+  
 ## Google Home integration via HA
 Please configure [Google Home with Home Assistant](https://www.home-assistant.io/integrations/google_assistant),
 then add this lines to your `configuration.yaml` file
@@ -160,8 +162,6 @@ google_assistant:
     light.glowworm:
       name: "glowworm"
       room: 'Roomname'
-```
-
-![SCREENSHOT](https://github.com/sblantipodi/pc_ambilight/blob/master/data/img/HA_mobile_client_screenshot.jpg)
-
+```  
+  
 Be sure that your `ESP8266` is connected to WiFi, [quick guide here](https://github.com/sblantipodi/firefly_luciferin/wiki/Remote-Access)
