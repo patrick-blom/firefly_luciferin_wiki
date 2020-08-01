@@ -28,3 +28,5 @@ ledMatrix:                // Auto generated LED Matrix
       y: 1590
   ...
 ```
+
+![](https://github.com/sblantipodi/firefly_luciferin/blob/master/data/img/testimage_luciferini.jpg?raw=true)
