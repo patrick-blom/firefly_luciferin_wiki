@@ -33,6 +33,7 @@ ledMatrix:                // Auto generated LED Matrix
 Smaller values results in brighter LEDs but less accurate colors.  
 2.2 is generally good for `SDR contents`, 6.0 is generally good for `HDR contents`.
 
+## Dynamically generated test image
 GUI offers a dynamically generated test image to test the LEDs behind your monitor.  
 
 ![](https://github.com/sblantipodi/firefly_luciferin/blob/master/data/img/testimage_luciferini.jpg?raw=true)
