@@ -6,8 +6,6 @@ Thanks to the MQTT protocol **Luciferin** can be easily integrated into your pre
 - Create a `glow_worm_luciferin` folder inside your `conf` folder.
 - Copy the [ready to use package](https://github.com/sblantipodi/glow_worm_luciferin/blob/master/home_assistant_glow_worm_package.yaml) into your `glow_worm_luciferin` folder.
 
-![SCREENSHOT](https://github.com/sblantipodi/pc_ambilight/blob/master/data/img/HA_mobile_client_screenshot.jpg)
-
 ```yaml
 light:
   - platform: mqtt
@@ -163,5 +161,7 @@ google_assistant:
       name: "glowworm"
       room: 'Roomname'
 ```
+
+![SCREENSHOT](https://github.com/sblantipodi/pc_ambilight/blob/master/data/img/HA_mobile_client_screenshot.jpg)
 
 Be sure that your `ESP8266` is connected to WiFi, [quick guide here](https://github.com/sblantipodi/firefly_luciferin/wiki/Remote-Access)
