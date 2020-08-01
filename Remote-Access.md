@@ -49,6 +49,6 @@ Thanks to [Arduino Bootstrapper], **Glow Worm Luciferin** firmware starts an acc
 You can connect to the AP with your mobile, go to http://192.168.4.1 to access the GUI  
 that will let you enter all the passwords without the needs of hardcoding them.
  
-<p align="center">
+<p align="left">
   <img width="450" src="https://raw.githubusercontent.com/sblantipodi/arduino_bootstrapper/master/data/img/arduinobootstrapper.png">
 </p>
