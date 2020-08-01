@@ -13,3 +13,25 @@
 ```yaml
 {"state": "ON", "effect": "rainbow"}
 ```
+
+Those are the supported effects:
+- GlowWorm
+- bpm
+- candy cane
+- confetti
+- cyclon rainbow
+- dots
+- fire
+- glitter
+- juggle
+- lightning
+- noise
+- police all
+- police one
+- rainbow
+- solid rainbow
+- rainbow with glitter
+- ripple
+- sinelon
+- solid
+- twinkle
