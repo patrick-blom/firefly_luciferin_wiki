@@ -49,7 +49,7 @@ input_number:
     step: 1
     
 input_boolean:
-  effettosolido:
+  solideffect:
     name: Bias Light
 
 sensor:
@@ -67,7 +67,7 @@ automation:
   - id: '1548456985521'
     alias: GlowWorm ON
     trigger:
-    - entity_id: input_boolean.effettosolido
+    - entity_id: input_boolean.solideffect
       from: 'off'
       platform: state
       to: 'on'
@@ -84,7 +84,7 @@ automation:
   - id: '1548456985522'
     alias: GlowWorm OFF
     trigger:
-    - entity_id: input_boolean.effettosolido
+    - entity_id: input_boolean.solideffect
       from: 'on'
       platform: state
       to: 'off'
@@ -107,7 +107,7 @@ automation:
     action:
     - service: input_boolean.turn_off
       data:
-        entity_id: input_boolean.effettosolido
+        entity_id: input_boolean.solideffect
   - id: '3845456985521'
     alias: GlowWorm ON JFSC
     trigger:
@@ -117,7 +117,7 @@ automation:
     action:
     - service: input_boolean.turn_on
       data:
-        entity_id: input_boolean.effettosolido        
+        entity_id: input_boolean.solideffect        
   - id: '4321674486'
     alias: PC Animation Speed
     initial_state: true
