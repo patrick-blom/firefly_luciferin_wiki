@@ -147,3 +147,17 @@ homeassistant:
   packages:
     glow_worm_luciferin: !include glow_worm_luciferin/glow_worm_luciferin.yaml
 ```
+
+## Google Home integration via HA
+Please configure Google Home with Home Assistant,
+then add this lines to your `configuration.yaml` file
+
+```yaml
+google_assistant:
+  ...
+  expose_by_default: false
+  entity_config:
+    light.glowworm:
+      name: "glowworm"
+      room: 'Roomname'
+```
