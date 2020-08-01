@@ -2,6 +2,11 @@
 
 **Luciferin** supports `MQTT` and can be controlled via a smartphone or via a PC remotely.
 
+## Default topic
+```
+lights/glowwormluciferin/set
+```
+
 #### Turn ON/OFF the LED strip remotely, apply light effects  
 
 ```yaml
