@@ -42,3 +42,6 @@ Those are the supported effects:
 - sinelon
 - solid
 - twinkle
+
+Connect the `ESP8266` microcontroller running the **Glow Worm Luciferin** firmware to the WiFi and MQTT network.
+![SCREENSHOT](https://github.com/sblantipodi/pc_ambilight/blob/master/data/img/HA_mobile_client_screenshot.jpg)
