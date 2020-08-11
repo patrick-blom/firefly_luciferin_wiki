@@ -7,7 +7,7 @@
 
 ## What you need  
 
-1) A `Windows PC` for the screen capture, captured images are sent to the LED strip that should be positioned behind the monitor.
+1) A `Windows PC` for the screen capture (Linux and macOS will be supported soon), captured images are sent to the LED strip that should be positioned behind the monitor.
 2) A cheap microcontroler, `ESP8266` is preferred
 3) A `WS2812B LED strip`
 4) A `power supply` for the LED strip
