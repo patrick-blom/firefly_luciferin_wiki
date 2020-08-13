@@ -61,4 +61,4 @@ Please connect to the AP with your mobile, if you search for WiFi networks you w
 7) **MQTT Username:** The username you use to login to your MQTT server.
 8) **MQTT Password:** Your MQTT password.  
   
-** Please double check your input before clicking the 'Store config' button. If you enter wrong data you need to erase the ESP memory and reflash the firmware. **
+**Please double check your input before clicking the 'Store config' button. If you enter wrong data you need to erase the ESP memory and reflash the firmware.**
