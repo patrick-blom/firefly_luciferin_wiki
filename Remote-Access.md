@@ -51,3 +51,12 @@ Please connect to the AP with your mobile, if you search for WiFi networks you w
 <p align="left">
   <img width="450" src="https://raw.githubusercontent.com/sblantipodi/glow_worm_luciferin/master/data/img/luciferin_access_point.jpg">
 </p>
+
+1) IP Address: The IP address that your ESP should use.
+2) SSID: Your Wifi SSID, the name of your Wifi.
+3) Wifi Password: Your Wifi password
+4) OTA Password: You can use this password to update Luciferin via wireless.
+5) MQTT Server IP: The IP address of your MQTT server.
+6) MQTT Server Port: The port of your MQTT server. 
+7) MQTT Username: The username you use to login to your MQTT server.
+8) MQTT Password: Your MQTT password
