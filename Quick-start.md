@@ -43,7 +43,7 @@ WS2812B led strip is cheap and easy to use and it looks awesome, 5V is easy to m
 
 ![Luciferin](https://github.com/sblantipodi/firefly_luciferin/blob/master/data/img/settings_screen.png)
 
-- Connect a USB cable to your ESP8266, double click the tray icon of the `Firefly Luciferin` software and **enjoy your bias lighting system**.
+- Connect a USB cable to your ESP8266, double click the tray icon of the `Firefly Luciferin` software and **enjoy your bias lighting system**. If you don't want to connect a USB cable you need to continue reading the Wiki for MQTT/Wireless configuration.
 
 ## Want to use it as a lamp, control it remotely, apply special effects to the LED strip, connect it via Home Assistant or OpenHAB?
 - [Remote control](https://github.com/sblantipodi/firefly_luciferin/wiki/Remote-Access)
