@@ -23,6 +23,7 @@ lights/glowwormluciferin/set
 
 Those are the supported effects:
 - GlowWorm
+- GlowWormWifi
 - bpm
 - candy cane
 - confetti
