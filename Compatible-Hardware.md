@@ -19,6 +19,5 @@ Thanks to [Arduino Boostrapper](https://github.com/sblantipodi/arduino_bootstrap
 [WS2812B 5V LED strip](https://it.aliexpress.com/wholesale?catId=0&initiative_id=SB_20200731160829&origin=y&SearchText=WS2812B+5v)
 
 ## Power supply for the LED strip
-You need a [5V power supply](https://it.aliexpress.com/wholesale?catId=0&initiative_id=SB_20200731160904&SearchText=5v+power+supply)
-You need to buy a power supply capable of powering all the LEDs you want. For 60 LEDs a power supply of at least 5V/3A it's recommended, for 120 LEDs you need a 5V/6A power supply, do you math here.
+You need to buy a [power supply](https://it.aliexpress.com/wholesale?catId=0&initiative_id=SB_20200731160904&SearchText=5v+power+supply) capable of powering all the LEDs you want. For 60 LEDs a power supply of at least 5V/3A it's recommended, for 120 LEDs you need a 5V/6A power supply, do your math here.
 A bigger power supply generally works better and runs less hot than a smaller one. **Don't undersize the power supply**.
