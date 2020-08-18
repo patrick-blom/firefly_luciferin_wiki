@@ -20,7 +20,7 @@
 `ESP8266` is the preferred microcontroller and have its own ready to use firmware, it's cheap, it's extremely stable, it have a built in WiFi. If you want to use another microcontroller you can build your own firmware. Wemos and Lolin D1 Mini microcontrollers are premium one. You can't go wrong with them.
 - Please install the CH340 driver, download [here](https://www.wemos.cc/en/latest/ch340_driver.html).
 - Please download the firmware from [here](https://github.com/sblantipodi/glow_worm_luciferin/releases).
-- Flash the firmware on your microcontroller (FULL version adds support for remote control). You can download ESP Home Flasher from [here](https://github.com/esphome/esphome-flasher/releases).  
+- Flash the firmware on your microcontroller (**FULL version adds support for remote control, if you flash FULL version you MUST** [configure WiFi and MQTT](https://github.com/sblantipodi/firefly_luciferin/wiki/Remote-Access)). You can download ESP Home Flasher from [here](https://github.com/esphome/esphome-flasher/releases).  
 This software have an easy GUI and it works great with ESP devices. 
 
 ## Connect the LED strip to your microcontroller  
