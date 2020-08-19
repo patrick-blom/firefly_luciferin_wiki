@@ -56,10 +56,6 @@ input_boolean:
 sensor:
   - platform: mqtt
     state_topic: 'lights/glowwormluciferin'
-    name: 'Last Seen GlowWorm'
-    value_template: '{{ value_json.time }}'
-  - platform: mqtt
-    state_topic: 'lights/glowwormluciferin'
     name: 'GlowWorm Version'
     unit_of_measurement: ' '
     value_template: '{{ value_json.ver }}'
