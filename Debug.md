@@ -1,0 +1,2 @@
+## Debug
+If you have trouble connecting to MQTT/WiFi you can read debug output on serial port 500000
