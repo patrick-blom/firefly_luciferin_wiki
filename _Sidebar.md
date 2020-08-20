@@ -10,6 +10,7 @@
 [Remote Access (MQTT)](https://github.com/sblantipodi/firefly_luciferin/wiki/Remote-Access)     
 [Home Automation configs](https://github.com/sblantipodi/firefly_luciferin/wiki/Home-Automation-configs)   
 [Why it's FAST?](https://github.com/sblantipodi/firefly_luciferin/wiki/Why-it's-FAST%3F)   
+[Debug](https://github.com/sblantipodi/firefly_luciferin/wiki/Debug)   
 
 ### Developers corner
 [Build process](https://github.com/sblantipodi/firefly_luciferin/wiki/Manual-build-process)  
