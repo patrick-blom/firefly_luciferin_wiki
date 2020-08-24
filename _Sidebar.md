@@ -3,7 +3,7 @@
 [Settings](https://github.com/sblantipodi/firefly_luciferin/wiki/Settings)  
 [Firefly Luciferin Binaries](https://github.com/sblantipodi/firefly_luciferin/releases)   
 [Glow Worm Luciferin Binaries](https://github.com/sblantipodi/glow_worm_luciferin/releases)   
-[YouTube Videos](https://github.com/sblantipodi/firefly_luciferin/wiki/YouTube-Videos) 
+[YouTube Videos](https://github.com/sblantipodi/firefly_luciferin/wiki/YouTube-Videos)  
 [Discord Server](https://github.com/sblantipodi/firefly_luciferin/wiki/Luciferin-Discord-server)
 
 ### Advanced
