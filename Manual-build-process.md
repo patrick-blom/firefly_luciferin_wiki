@@ -27,5 +27,5 @@ To create the binary installer, simply run:
 #### For Linux
 jpackage -i target --main-class org.dpsoftware.JavaFXStarter --main-jar FireflyLuciferin-jar-with-dependencies.jar --icon data/img/java_fast_screen_capture_logo.png --linux-shortcut --copyright "Davide Perini" --name FireflyLuciferin  --vendor DPsoftware --app-version "${{steps.get-id.outputs.id}}"
 
-**Luciferin** has a continuos integration pipeline that does this automatically on every Git Tag.
+**Firefly Luciferin** has a continuos integration pipeline that does this automatically on every Git Tag.
 
