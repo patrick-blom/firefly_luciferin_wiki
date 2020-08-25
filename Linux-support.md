@@ -19,6 +19,7 @@ Once installed you can find the executable binary in:
 /opt/FireflyLuciferin/bin
 ```
 some distros requires the appropriate permissions on that folder.  
+
   
 **NOTE:** In **Firefly Luciferin** Linux version **GStreamer** is not bundled with the installer. Install instructions [here](https://gstreamer.freedesktop.org/documentation/installing/on-linux.html?gi-language=c).
 
