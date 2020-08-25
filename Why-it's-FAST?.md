@@ -24,7 +24,7 @@ and how fast your microcontroller is able to process (consume) this data.
 
 Increase `dataRate` accordingly to your microcontroller's serial speed, 115200 is generally more than enough for 30FPS and 100 LEDs. Producers framerate should not exceed the consuming one, all data that is not consumed in time, is lost.
 
-## GPU Hardware Acceleration using Java Native Access (for Windows only) 
+## GPU Hardware Acceleration using Java Native Access 
 Screen capturing is pretty slow and very CPU intensive in Windows systems (Linux is much more efficient here),
 for this reason I wrapped the Windows GDI32 C class using [Java Native Access](https://github.com/java-native-access/jna) to access Windows hardware acceleration.  
 
