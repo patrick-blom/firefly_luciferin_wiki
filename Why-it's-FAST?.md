@@ -33,6 +33,3 @@ a little bit of lag to the mouse and is a CPU hog.
 
 If you are running Windows 8 or Windows 10 you can use `Desktop Duplication API (DDUPL)`, it's the fastest implementation yet, no lag, 
 no stutter, very small usage of resources. DDUPL is accessed via [JNA](https://github.com/java-native-access/jna) using the [GStreamer bindings for Java](https://gstreamer.freedesktop.org/bindings/java.html).  
-
-## TODO
-- Add Linux/MacOS support, don't use on Linux or MacOS yet. 
