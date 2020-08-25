@@ -1,5 +1,8 @@
 **Firefly Luciferin** has a complete Linux support.
-Install packages come in two flavours, RPM and DEB.
+Install packages come in two flavours, **RPM** and **DEB**.  
+`Firefly Luciferin` controls are accessed via tray icon, in recent releases GNOME removed this support, for this reason Linux version have an additional tab for controls.
+
+
 
 **Install via RPM:**
 ```
