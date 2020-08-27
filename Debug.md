@@ -1,1 +1,1 @@
-If you have trouble connecting to MQTT/WiFi you can read debug output on serial port 500000
+If you have trouble connecting to MQTT/WiFi you can read debug output on serial port with a baud rate of 500000
