@@ -9,7 +9,7 @@ Install packages come in two flavours, **RPM** and **DEB**.
 rpm -Uvh FireflyLuciferinLinux.rpm
 ```
 
-**Install via DEV:**
+**Install via DEB:**
 ```
 dpkg -i FireflyLuciferinLinux.deb
 ```
