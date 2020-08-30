@@ -1,4 +1,4 @@
-## Why it's fast? What is the achievable framerate?
+## Why is it fast? What is the achievable framerate?
 Firefly Luciferin is written in Java using AWT's Robot class, Robots is the only way to screen capture using Java (without exotic libs).  
 With that thing you can almost never get above 5FPS (in 4K) because as you can see in the OpenJDK implementation, `robot.createScreenCapture()` is synchronized and the native calls it uses are pretty slow.  
 Fast enough for screenshots but too slow for screen capture. If one Robot can capture at about 5FPS, what about 2 Robots in a `multi threaded producer/consumer` environment?  
