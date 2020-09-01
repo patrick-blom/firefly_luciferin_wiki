@@ -4,13 +4,12 @@ You can find `Devices` tab under the `Settings` menu, in that screen you can che
 
 <img align="center" width="450" src="https://github.com/sblantipodi/firefly_luciferin/blob/master/data/img/device_tab.jpg">  
 
-  
-
 As soon as you start Firefly Luciferin it checks for updates for both PC software and connected devices.
 
 <img align="center" width="450" src="https://github.com/sblantipodi/firefly_luciferin/blob/master/data/img/downloading.jpg">
   
-
+If you have multiple GlowWorm Luciferin devices, all devices are updated in one shot.
 <img align="center" width="450" src="https://github.com/sblantipodi/firefly_luciferin/blob/master/data/img/new_version.jpg">
 
+Firmware update process supports rollback in case of error and it runs in background, a notification is sent via popup message when the firmware upgrade is completed.
 
