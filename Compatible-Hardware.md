@@ -16,7 +16,7 @@ A mini wifi board with 4MB flash based on ESP-8266EX.
 
 A wifi&bluetooth board based ESP-32 [Buy it](https://www.aliexpress.com/store/product/WEMOS-LOLIN32-V1-0-0-wifi-bluetooth-board-based-ESP-32-4MB-FLASH/1331105_32808551116.html) 
 
-NOTE: If you need to buy a microcontroller specifically for this project, ESP8266 is more than enough for **Luciferin** and its ecosystem is more stable than other microcontrollers.
+NOTE: If you need to buy a microcontroller specifically for this project, **ESP8266 is more than enough for Luciferin** and its ecosystem is more stable than other microcontrollers.
 
 Thanks to [Arduino Boostrapper](https://github.com/sblantipodi/arduino_bootstrapper) it can run on a lot of devices but if you want to run of a different board than ESP8266/ESP32, you need to manually compile the firmware.
 
