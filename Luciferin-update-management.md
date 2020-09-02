@@ -8,7 +8,8 @@ As soon as you start Firefly Luciferin it checks for updates for both PC softwar
 
 <img align="center" width="450" src="https://github.com/sblantipodi/firefly_luciferin/blob/master/data/img/downloading.jpg">
   
-If you have multiple GlowWorm Luciferin devices connected to Firefly Luciferin PC software, all devices are updated in one shot.
+If you have multiple GlowWorm Luciferin devices connected to Firefly Luciferin PC software, all devices are updated in one shot.  
+
 <img align="center" width="450" src="https://github.com/sblantipodi/firefly_luciferin/blob/master/data/img/new_version.jpg">
 
 Firmware update process runs in background and it supports rollback for error management, a notification is sent to user when the firmware upgrade is completed.
