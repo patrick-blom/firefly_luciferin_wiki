@@ -2,7 +2,7 @@
 
 **Luciferin** supports `MQTT` and can be controlled via a smartphone or via a PC remotely using a generic MQTT client.
 
-![SCREENSHOT](https://github.com/sblantipodi/pc_ambilight/blob/master/data/img/HA_mobile_client_screenshot.jpg)
+![SCREENSHOT](https://github.com/sblantipodi/glow_worm_luciferin/blob/master/assets/img/HA_mobile_client_screenshot.jpg)
 
 ## Default topic
 ```
