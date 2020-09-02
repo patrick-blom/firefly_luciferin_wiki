@@ -7,7 +7,9 @@
 |<a href="https://www.wemos.cc/en/latest/d1/d1_mini.html"><img width="400" src="https://github.com/wemos/docs/raw/master/docs/en/_static/boards/d1_mini_v3.1.0_1_16x16.jpg"></a>|<a href="https://www.wemos.cc/en/latest/d1/d1_mini.html"><img width="400" src="https://github.com/wemos/docs/raw/master/docs/en/_static/boards/d1_mini_v3.1.0_2_16x16.jpg"></a>|
 
 A mini wifi board with 4MB flash based on ESP-8266EX.
-[Buy it](https://www.aliexpress.com/store/product/D1-mini-Mini-NodeMcu-4M-bytes-Lua-WIFI-Internet-of-Things-development-board-based-ESP8266/1331105_32529101036.html)
+[Buy it](https://www.aliexpress.com/store/product/D1-mini-Mini-NodeMcu-4M-bytes-Lua-WIFI-Internet-of-Things-development-board-based-ESP8266/1331105_32529101036.html)  
+
+**NOTE: ESP8266 is the recommended microcontroller for Luciferin**, it's cheap, it's fast, it has enough memory and built in WiFi, its ecosystem is generally more mature than other microcontrollers.  
 
 ## ESP32
 |  ESP                 |  Board                         |
@@ -15,8 +17,6 @@ A mini wifi board with 4MB flash based on ESP-8266EX.
 |<a href="https://docs.wemos.cc/en/latest/d32/d32.html"><img width="400" src="https://docs.wemos.cc/en/latest/_images/d32_v1.0.0_1_16x16.jpg"></a>|<a href="https://docs.wemos.cc/en/latest/d32/d32.html"><img width="400" src="https://docs.wemos.cc/en/latest/_images/d32_v1.0.0_2_16x16.jpg"></a>|  
 
 A wifi&bluetooth board based ESP-32 [Buy it](https://www.aliexpress.com/store/product/WEMOS-LOLIN32-V1-0-0-wifi-bluetooth-board-based-ESP-32-4MB-FLASH/1331105_32808551116.html) 
-
-NOTE: **ESP8266 is the recommended microcontroller for Luciferin**, it's cheap, it's fast, it has enough memory and built in WiFi, its ecosystem is generally more mature than other microcontrollers.
 
 Thanks to [Arduino Boostrapper](https://github.com/sblantipodi/arduino_bootstrapper) it can run on a lot of devices but if you want to run of a different board than ESP8266/ESP32, you need to manually compile the firmware.
 
