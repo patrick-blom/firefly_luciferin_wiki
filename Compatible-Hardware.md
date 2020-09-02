@@ -12,8 +12,9 @@ A mini wifi board with 4MB flash based on ESP-8266EX.
 ## ESP32
 |  ESP                 |  Board                         |
 |----------------------|--------------------------------|
-|<a href="https://docs.wemos.cc/en/latest/d32/d32.html"><img width="400" src="https://docs.wemos.cc/en/latest/_images/d32_v1.0.0_1_16x16.jpg"></a>|<a href="https://docs.wemos.cc/en/latest/d32/d32.html"><img width="400" src="https://docs.wemos.cc/en/latest/_images/d32_v1.0.0_2_16x16.jpg"></a>|
-A wifi&bluetooth board based ESP-32 [Buy it]  
+|<a href="https://docs.wemos.cc/en/latest/d32/d32.html"><img width="400" src="https://docs.wemos.cc/en/latest/_images/d32_v1.0.0_1_16x16.jpg"></a>|<a href="https://docs.wemos.cc/en/latest/d32/d32.html"><img width="400" src="https://docs.wemos.cc/en/latest/_images/d32_v1.0.0_2_16x16.jpg"></a>|  
+
+A wifi&bluetooth board based ESP-32 [Buy it](https://www.aliexpress.com/store/product/WEMOS-LOLIN32-V1-0-0-wifi-bluetooth-board-based-ESP-32-4MB-FLASH/1331105_32808551116.html) 
 
 Thanks to [Arduino Boostrapper](https://github.com/sblantipodi/arduino_bootstrapper) it can run on a lot of devices but if you want to run of a different board than ESP8266/ESP32, you need to manually compile the firmware.
 
