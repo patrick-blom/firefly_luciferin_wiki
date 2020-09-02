@@ -1,5 +1,5 @@
-[**Glow Worm Luciferin**](https://github.com/sblantipodi/glow_worm_luciferin) is a firmware designed for **ESP8266 microcontrollers**.  
-`ESP8266` is the preferred microcontroller and have its own ready to use firmware, it's cheap, it's extremely stable, it have a built in WiFi. If you want to use another microcontroller you can build your own firmware. Wemos and Lolin D1 Mini microcontrollers are premium ones.  
+[**Glow Worm Luciferin**](https://github.com/sblantipodi/glow_worm_luciferin) is a firmware designed for **ESP8266/ESP32 microcontrollers**.  
+ESP8266 is the recommended microcontroller for Luciferin**, it's cheap, it's fast, it has enough memory and built in WiFi, its ecosystem is generally more mature than other microcontrollers.   If you want to use another microcontroller you can build your own firmware. Wemos and Lolin D1 Mini microcontrollers are premium ones.  
 
 ## Lolin D1 Mini ESP8266
 |  ESP                 |  Board                         |
@@ -8,8 +8,6 @@
 
 A mini wifi board with 4MB flash based on ESP-8266EX.
 [Buy it](https://www.aliexpress.com/store/product/D1-mini-Mini-NodeMcu-4M-bytes-Lua-WIFI-Internet-of-Things-development-board-based-ESP8266/1331105_32529101036.html)  
-
-**NOTE: ESP8266 is the recommended microcontroller for Luciferin**, it's cheap, it's fast, it has enough memory and built in WiFi, its ecosystem is generally more mature than other microcontrollers.  
 
 ## ESP32
 |  ESP                 |  Board                         |
