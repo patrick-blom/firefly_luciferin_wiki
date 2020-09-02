@@ -144,7 +144,7 @@ homeassistant:
     glow_worm_luciferin: !include glow_worm_luciferin/glow_worm_luciferin.yaml
 ```
   
-![SCREENSHOT](https://github.com/sblantipodi/pc_ambilight/blob/master/data/img/HA_mobile_client_screenshot.jpg)
+![SCREENSHOT](https://github.com/sblantipodi/glow_worm_luciferin/blob/master/assets/img/HA_mobile_client_screenshot.jpg)
   
 ## Google Home integration via HA
 Please configure [Google Home with Home Assistant](https://www.home-assistant.io/integrations/google_assistant),
