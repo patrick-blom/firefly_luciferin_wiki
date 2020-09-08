@@ -25,7 +25,7 @@ This software have an easy GUI and it works great with ESP devices.
 
 ## Connect the LED strip to your microcontroller  
 
-![CIRCUITS](https://github.com/sblantipodi/pc_ambilight/blob/master/data/img/ambilight_bb.png)
+![CIRCUITS](https://github.com/sblantipodi/glow_worm_luciferin/blob/master/assets/img/ambilight_bb.png)
 If you have a low quality microcontroller, capacitor, resistance and logic level converter helps "stabilizing the circuit", there are many people who don't use those extra components.
 WS2812B led strip is cheap and easy to use and it looks awesome, 5V is easy to manage with a microcontroller, buy a compatible power supply and you are set.
 
