@@ -11,7 +11,7 @@
 2) A cheap microcontroler, `ESP8266` is preferred
 3) A `WS2812B LED strip`
 4) A `power supply` for the LED strip
-5) An MQTT Server or an Home Automation system ex: Home Assistant, OpenHAB, ecc. (**optional**, not strictly needed)
+5) **[OPTIONAL]** An MQTT Server or an Home Automation system ex: Home Assistant, OpenHAB, ecc. 
 
 ## Install Glow Worm Luciferin firmware on your microcontroller  
 
