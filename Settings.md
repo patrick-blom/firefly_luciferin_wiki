@@ -41,3 +41,7 @@ GUI offers a dynamically generated test image to test the LEDs behind your monit
 
 ## Choose "static" colors without external programs
 
+![](https://github.com/sblantipodi/firefly_luciferin/blob/master/data/img/misc_tab.jpg?raw=true)
+  
+![](https://github.com/sblantipodi/firefly_luciferin/blob/master/data/img/misc_tab_color.jpg?raw=true)
+
