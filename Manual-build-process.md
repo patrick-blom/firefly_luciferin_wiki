@@ -22,11 +22,11 @@ Maven will create a `FireflyLuciferin-jar-with-dependencies.jar` that will be bu
 ## Create binary installer for Windows/Linux
 To create the binary installer, simply run:
 #### For Windows
-```- cd wix311-binaries  
-- jpackage -i ../target --main-class org.dpsoftware.JavaFXStarter --main-jar FireflyLuciferin-jar-with-dependencies.jar --icon ../data/img/java_fast_screen_capture_logo.ico --win-menu --win-menu-group Ambilight --copyright "Davide Perini" --name "Firefly Luciferin"  --vendor DPsoftware --win-dir-chooser --win-shortcut --win-per-user-install```
+`- cd wix311-binaries  
+- jpackage -i ../target --main-class org.dpsoftware.JavaFXStarter --main-jar FireflyLuciferin-jar-with-dependencies.jar --icon ../data/img/java_fast_screen_capture_logo.ico --win-menu --win-menu-group Ambilight --copyright "Davide Perini" --name "Firefly Luciferin"  --vendor DPsoftware --win-dir-chooser --win-shortcut --win-per-user-install`
 
 #### For Linux
-```jpackage -i target --main-class org.dpsoftware.JavaFXStarter --main-jar FireflyLuciferin-jar-with-dependencies.jar --icon data/img/java_fast_screen_capture_logo.png --linux-shortcut --copyright "Davide Perini" --name FireflyLuciferin  --vendor DPsoftware --app-version "${{steps.get-id.outputs.id}}"```
+`jpackage -i target --main-class org.dpsoftware.JavaFXStarter --main-jar FireflyLuciferin-jar-with-dependencies.jar --icon data/img/java_fast_screen_capture_logo.png --linux-shortcut --copyright "Davide Perini" --name FireflyLuciferin  --vendor DPsoftware --app-version "${{steps.get-id.outputs.id}}"`
 
 **Firefly Luciferin** has a [continuos integration pipeline](https://github.com/sblantipodi/firefly_luciferin/actions) that creates the Windows Linux installer on every Git Tag.  
 Another pipeline build the **Glow Worm Luciferin** firmware [here](https://github.com/sblantipodi/glow_worm_luciferin/actions).
