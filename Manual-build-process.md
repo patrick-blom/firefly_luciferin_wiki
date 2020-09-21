@@ -15,8 +15,9 @@ Wix Toolset binaries is in `/wix311-binaries/` folder.
 ## Build from source
 - Simply git clone the project.
 - mvn clean
-- mvn install
-Maven will create a `FireflyLuciferin-jar-with-dependencies.jar` that will be bundled with the installer. The jar is executable.
+- mvn install  
+
+Maven will create a `FireflyLuciferin-jar-with-dependencies.jar` that will be bundled with the installer. Generated jar is executable.
 
 ## Create binary installer for Windows/Linux
 To create the binary installer, simply run:
@@ -27,5 +28,4 @@ To create the binary installer, simply run:
 #### For Linux
 jpackage -i target --main-class org.dpsoftware.JavaFXStarter --main-jar FireflyLuciferin-jar-with-dependencies.jar --icon data/img/java_fast_screen_capture_logo.png --linux-shortcut --copyright "Davide Perini" --name FireflyLuciferin  --vendor DPsoftware --app-version "${{steps.get-id.outputs.id}}"
 
-**Firefly Luciferin** has a continuos integration pipeline that does this automatically on every Git Tag.
-
+**Firefly Luciferin** has a (continuos integration pipeline)[https://github.com/sblantipodi/firefly_luciferin/actions] that creates the Windows Linux installer on every Git Tag.
