@@ -14,8 +14,8 @@ have a 8 cores CPU, best framerate is achieved with 16 threads.
   
 ![CPU LOAD](https://github.com/sblantipodi/firefly_luciferin/blob/master/data/img/smashing_threads.jpg)
 
-If you are using a slow microcontroller, capturing at a very high framerate does not help. If you right click tray icon and then click `FPS`,
-you can see the output as shown in the image below. In that output you can see how fast the software is captruing the screen (producing)
+If you are using a slow microcontroller, capturing at a very high framerate will not help. If you right click the tray icon and then click `FPS`,
+you can see the output as shown in the image below. In that output you can see how fast the software is capturing the screen (producing)
 and how fast your microcontroller is able to process (consume) this data.  
 
 <p align="center">
@@ -25,10 +25,10 @@ and how fast your microcontroller is able to process (consume) this data.
 Increase `dataRate` accordingly to your microcontroller's serial speed, 115200 is generally more than enough for 30FPS and 100 LEDs. Producers framerate should not exceed the consuming one, all data that is not consumed in time, is lost.
 
 ## GPU Hardware Acceleration using Java Native Access 
-Screen capturing is pretty slow and very CPU intensive in Windows systems (Linux is much more efficient here),
+Screen capturing is pretty slow and very CPU intensive in Windows systems (Linux is much more efficient in this regard),
 for this reason I wrapped the Windows GDI32 C class using [Java Native Access](https://github.com/java-native-access/jna) to access Windows hardware acceleration.  
 
-This API capture and deliver captured frames in GPU memory. It's fast but not enough for my tastes because it adds 
+This API captures and delivers captured frames in GPU memory. It's fast but not enough for my tastes because it adds 
 a little bit of lag to the mouse and is a CPU hog.  
 
 If you are running Windows 8 or Windows 10 you can use `Desktop Duplication API (DDUPL)`, it's the fastest implementation yet, no lag, 
