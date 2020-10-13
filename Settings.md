@@ -35,7 +35,6 @@ Small gamma correction values results in brighter LEDs but less accurate colors.
 
 ## Dynamically generated test image
 GUI offers a dynamically generated test image to test the LEDs behind your monitor.  
-**NOTE:** If you want to use the automatically generated configuration, **your first LED should be positioned in the bottom half of your monitor** like in the image below.
 
 ![](https://github.com/sblantipodi/firefly_luciferin/blob/master/data/img/testimage_luciferini.jpg?raw=true)
 
