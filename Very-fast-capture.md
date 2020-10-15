@@ -18,16 +18,6 @@ and how fast your microcontroller is able to process (consume) this data.
 
 Increase `dataRate` accordingly to your microcontroller's serial speed, 115200 is generally more than enough for 30FPS and 100 LEDs. Producers framerate should not exceed the consuming one, all data that is not consumed in time, is lost.
 
-## CPU load with 6 threads
-With 6 threads and an i7 5930K @ 4.2GHz I can capture at 25FPS in 4K (no GPU), 12 threads gives me +30FPS.   
-If you want, you can increase threads numbers variable and get even higher framerate.  
-
-Note: performance does not increase linearly, find the sweet spot for your taste and your environment.  
-`Maximum framerate` is generally achieved by setting thread number at a value greater than your CPU cores, if you  
-have a 8 cores CPU, best framerate is achieved with 16 threads.  
-  
-![CPU LOAD](https://github.com/sblantipodi/firefly_luciferin/blob/master/data/img/smashing_threads.jpg)
-
 ## GPU Hardware Acceleration using Java Native Access 
 Screen capturing is pretty slow and very CPU intensive in Windows systems (Linux is much more efficient in this regard),
 for this reason I wrapped the Windows GDI32 C class using [Java Native Access](https://github.com/java-native-access/jna) to access Windows hardware acceleration.  
