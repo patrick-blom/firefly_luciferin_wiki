@@ -47,7 +47,7 @@ Those are the supported effects:
 
 ## Connect to the WiFi and MQTT network.
 Thanks to [Arduino Bootstrapper](https://github.com/sblantipodi/arduino_bootstrapper), **Glow Worm Luciferin** firmware starts an access point for easy configuration via a mobile phone.  
-Please connect to the AP with your mobile, if you search for WiFi networks you will find your ESP device named LUCIFERIN, once connected go to http://192.168.4.1 and you will access a GUI where you can enter all the passwords without the needs of hardcoding them.
+Please connect to the AP with your mobile, if you search for WiFi networks you will find your ESP **device named GLOW_WORM**, once connected go to http://192.168.4.1 and you will access a GUI where you can enter all the passwords without the needs of hardcoding them.
  
 <p align="left">
   <img width="450" src="https://raw.githubusercontent.com/sblantipodi/glow_worm_luciferin/master/assets/img/luciferin_access_point.jpg">
