@@ -69,6 +69,11 @@ sensor:
     name: 'GlowWorm Version'
     unit_of_measurement: ' '
     value_template: '{{ value_json.ver }}'
+  - platform: mqtt
+    state_topic: 'lights/glowwormluciferin'
+    name: 'Glow Worm Luciferin'
+    unit_of_measurement: 'FPS'
+    value_template: '{{ value_json.framerate }}'  
 
 automation:
   - id: '1548456985521'
@@ -151,7 +156,7 @@ switch:
 ```yaml
 homeassistant:
   packages:
-    glow_worm_luciferin: !include glow_worm_luciferin/glow_worm_luciferin.yaml
+    luciferin: !include luciferin/luciferin.yaml
 ```
   
 ![SCREENSHOT](https://github.com/sblantipodi/glow_worm_luciferin/blob/master/assets/img/HA_mobile_client_screenshot.jpg)
