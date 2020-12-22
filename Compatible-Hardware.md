@@ -30,3 +30,8 @@ Thanks to [Arduino Boostrapper](https://github.com/sblantipodi/arduino_bootstrap
 ## Power supply for the LED strip
 You need to buy a [power supply](https://it.aliexpress.com/wholesale?catId=0&initiative_id=SB_20200731160904&SearchText=5v+power+supply) capable of powering all the LEDs you want. For 60 LEDs a power supply of at least 5V/3A it's recommended, for 120 LEDs you need a 5V/6A power supply, do your math here.
 A bigger power supply generally works better and runs less hot than a smaller one. **Don't undersize the power supply**.
+
+## Pre-build boards support
+If you don't want to build your own board, you can use a pre-build board like the [QuinLED-Dig-Uno](https://quinled.info/2018/09/15/quinled-dig-uno).  
+NOTE: QuinLED-Dig-Uno must be used with Glow Worm FULL Firmware because it can't be connected to your PC via USB.
+

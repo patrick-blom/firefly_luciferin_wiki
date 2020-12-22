@@ -60,6 +60,7 @@ Please connect to the AP with your mobile, if you search for WiFi networks you w
 5) **MQTT Server IP:** The IP address of your MQTT server.
 6) **MQTT Server Port:** The port of your MQTT server. 
 7) **MQTT Username:** The username you use to login to your MQTT server.
-8) **MQTT Password:** Your MQTT password.  
-  
+8) **MQTT Password:** Your MQTT password.
+9) **GPIO PIN FOR THE LED STRIP:** The GPIO PIN you want to use to drive your LED strip (2 or 5 or 16).
+
 **Please double check your input before clicking the 'Store config' button. If you enter wrong data you need to erase the ESP memory and reflash the firmware.**
