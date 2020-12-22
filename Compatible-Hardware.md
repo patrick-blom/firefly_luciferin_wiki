@@ -34,4 +34,6 @@ A bigger power supply generally works better and runs less hot than a smaller on
 ## Pre-build boards support
 If you don't want to build your own board, you can use a pre-build board like the [QuinLED-Dig-Uno](https://quinled.info/2018/09/15/quinled-dig-uno).  
 NOTE: QuinLED-Dig-Uno must be used with Glow Worm FULL Firmware because it can't be connected to your PC via USB.
+  
+<img width="500" src="https://github.com/sblantipodi/firefly_luciferin/blob/master/data/img/quinled.png?raw=true">
 
