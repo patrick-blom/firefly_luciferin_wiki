@@ -12,7 +12,7 @@
 ### Advanced
 [Compatible Hardware](https://github.com/sblantipodi/firefly_luciferin/wiki/Compatible-Hardware)  
 [Remote Access (MQTT)](https://github.com/sblantipodi/firefly_luciferin/wiki/Remote-Access)     
-[Home Automation configs](https://github.com/sblantipodi/firefly_luciferin/wiki/Home-Automation-configs)   
+[Home Assistant integration](https://github.com/sblantipodi/firefly_luciferin/wiki/Home-Automation-configs)   
 [Why is it FAST?](https://github.com/sblantipodi/firefly_luciferin/wiki/Very-fast-capture)   
 [Debug](https://github.com/sblantipodi/firefly_luciferin/wiki/Debug)   
 
