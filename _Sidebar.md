@@ -5,6 +5,7 @@
 [Glow Worm Luciferin Binaries](https://github.com/sblantipodi/glow_worm_luciferin/releases)   
 [Update management](https://github.com/sblantipodi/firefly_luciferin/wiki/Luciferin-update-management)  
 [Linux Support](https://github.com/sblantipodi/firefly_luciferin/wiki/Linux-support)  
+[Known Problems](https://github.com/sblantipodi/firefly_luciferin/wiki/Very-fast-capture)   
 [YouTube Videos](https://github.com/sblantipodi/firefly_luciferin/wiki/YouTube-Videos)  
 [Discord Server](https://github.com/sblantipodi/firefly_luciferin/wiki/Luciferin-Discord-server)
 
