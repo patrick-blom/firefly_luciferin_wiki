@@ -5,6 +5,7 @@ Thanks to the MQTT protocol **Luciferin** can be easily integrated into your pre
   
 - Create a `luciferin` folder inside your `conf` folder.
 - Copy the [ready to use package](https://github.com/sblantipodi/glow_worm_luciferin/blob/master/home_assistant_luciferin_package.yaml) into your `luciferin` folder.  
+  
 
 ---  
 
