@@ -7,7 +7,9 @@ Thanks to the MQTT protocol **Luciferin** can be easily integrated into your pre
 - Copy the [ready to use package](https://github.com/sblantipodi/glow_worm_luciferin/blob/master/home_assistant_luciferin_package.yaml) into your `luciferin` folder.  
 
 <img align="center" width="1000" src="https://github.com/sblantipodi/firefly_luciferin/blob/master/data/img/ha_luciferin.jpg">  
+
 ---  
+
 ```yaml
 light:
   - platform: mqtt
