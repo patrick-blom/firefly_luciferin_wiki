@@ -8,7 +8,7 @@ Thanks to the MQTT protocol **Luciferin** can be easily integrated into your pre
 
   
 
-<img align="center" width="700" src="https://github.com/sblantipodi/firefly_luciferin/blob/master/data/img/ha_luciferin.jpg">  
+<img align="center" width="1000" src="https://github.com/sblantipodi/firefly_luciferin/blob/master/data/img/ha_luciferin.jpg">  
   
   
 
