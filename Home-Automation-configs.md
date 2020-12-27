@@ -2,11 +2,11 @@ Thanks to the MQTT protocol **Luciferin** can be easily integrated into your pre
 
 ## Home Assistant integration  
 <img align="right" width="100" height="100" src="https://avatars3.githubusercontent.com/u/13844975?s=200&v=4">  
-
----  
-
+  
 - Create a `luciferin` folder inside your `conf` folder.
 - Copy the [ready to use package](https://github.com/sblantipodi/glow_worm_luciferin/blob/master/home_assistant_luciferin_package.yaml) into your `luciferin` folder.  
+
+---  
 
 <img align="center" width="1000" src="https://github.com/sblantipodi/firefly_luciferin/blob/master/data/img/ha_luciferin.jpg">  
 
