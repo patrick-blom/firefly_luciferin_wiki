@@ -31,7 +31,7 @@ ledMatrix:                // Auto generated LED Matrix
 
 ## Gamma correction for HDR contents
 Small gamma correction values results in brighter LEDs but less accurate colors.  
-2.2 is generally good for `SDR contents`, 6.0 is generally good for `HDR contents`.
+2.2 is generally good for `SDR contents`, a value between 4.0 and 6.0 is generally good for `HDR contents`.
 
 ## Dynamically generated test image
 GUI offers a dynamically generated test image to test the LEDs behind your monitor.  
