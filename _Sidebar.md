@@ -8,6 +8,7 @@
 [Known Problems](https://github.com/sblantipodi/firefly_luciferin/wiki/Known-Problems)   
 [YouTube Videos](https://github.com/sblantipodi/firefly_luciferin/wiki/YouTube-Videos)  
 [Discord Server](https://github.com/sblantipodi/firefly_luciferin/wiki/Luciferin-Discord-server)
+[Contribution](https://github.com/sblantipodi/firefly_luciferin/wiki/Contribute)   
 
 ### Advanced
 [Compatible Hardware](https://github.com/sblantipodi/firefly_luciferin/wiki/Compatible-Hardware)  
@@ -18,6 +19,3 @@
 
 ### Developers corner
 [Build process](https://github.com/sblantipodi/firefly_luciferin/wiki/Manual-build-process) 
-
-### Contribution 
-[Contribution](https://github.com/sblantipodi/firefly_luciferin/wiki/Contribute)   
