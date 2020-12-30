@@ -20,16 +20,15 @@
 `ESP8266` is the preferred microcontroller and have its own ready to use firmware, it's cheap, it's extremely stable, it have a built in WiFi. If you want to use another microcontroller you can build your own firmware. Wemos and Lolin D1 Mini microcontrollers are premium one. You can't go wrong with them.
 - Please install the CH340 driver, download [here](https://www.wemos.cc/en/latest/ch340_driver.html).
 - Please download the firmware from [here](https://github.com/sblantipodi/glow_worm_luciferin/releases).
-- Flash the firmware on your microcontroller.  
+- Flash the firmware on your microcontroller using your favourite flash tool, ESP Home Flasher is a good one and can be downloaded from [here](https://github.com/esphome/esphome-flasher/releases).    
 **FULL firmware version adds support for remote control, if you flash FULL version you MUST configure** [WiFi and MQTT](https://github.com/sblantipodi/firefly_luciferin/wiki/Remote-Access). With FULL firmware USB connection is optional.  
 **If you flash LIGHT firmware you MUST use USB cable**.  
-Note: If you want to use the FULL firmware without using a USB cable you need to connect the 5V microcontroller's PIN to the power supply. You can download ESP Home Flasher from [here](https://github.com/esphome/esphome-flasher/releases).  
-This software have an easy GUI and it works great with ESP devices. 
 
 ## Connect the LED strip to your microcontroller  
 
 ![CIRCUITS](https://github.com/sblantipodi/glow_worm_luciferin/blob/master/assets/img/ambilight_bb.png)
-If you have a low quality microcontroller, capacitor, resistance and logic level converter helps "stabilizing the circuit", there are many people who don't use those extra components.
+Note: If you want to use the FULL firmware without using a USB cable you need to connect the 5V microcontroller's PIN to the power supply.
+If you have a low quality microcontroller, capacitor, resistance and logic level converter helps "stabilizing the circuit".
 WS2812B led strip is cheap and easy to use and it looks awesome, 5V is easy to manage with a microcontroller, buy a compatible power supply and you are set.  
   
 If you don't want to build your own board, you can use a pre-build board like the [QuinLED-Dig-Uno](https://quinled.info/2018/09/15/quinled-dig-uno).  
