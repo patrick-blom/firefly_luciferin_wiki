@@ -9,7 +9,7 @@
 
 1) A `Windows PC or Linux` for the screen capture (macOS will be supported soon), captured images are sent to the LED strip that should be positioned behind the monitor.
 2) A cheap microcontroler, `ESP8266` is the recommended one.
-3) A `WS2812B LED strip`
+3) A `WS2812B 5V LED strip`
 4) A `power supply` for the LED strip
 5) **[OPTIONAL]** An `MQTT Server` or an Home Automation system ex: `Home Assistant`, `OpenHAB`, ecc. 
 
