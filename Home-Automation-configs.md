@@ -6,7 +6,7 @@ Thanks to the MQTT protocol **Luciferin** can be easily integrated into your pre
 - Create a `luciferin` folder inside your `conf` folder.
 - Copy the [ready to use package](https://github.com/sblantipodi/glow_worm_luciferin/blob/master/home_assistant_luciferin_package.yaml) into your `luciferin` folder.  
   
-<img align="center" width="1000" src="https://github.com/sblantipodi/firefly_luciferin/blob/master/data/img/ha_luciferin.jpg">  
+<img align="center" width="1000" src="https://github.com/sblantipodi/firefly_luciferin/blob/master/data/img/ha_luciferin.jpg?raw=true">  
 
 ---  
 
@@ -216,7 +216,7 @@ homeassistant:
     luciferin: !include luciferin/luciferin.yaml
 ```
   
-![SCREENSHOT](https://github.com/sblantipodi/glow_worm_luciferin/blob/master/assets/img/HA_mobile_client_screenshot.jpg)
+![SCREENSHOT](https://github.com/sblantipodi/glow_worm_luciferin/blob/master/assets/img/HA_mobile_client_screenshot.jpg?raw=true)
   
 ## Google Home integration via HA
 Please configure [Google Home with Home Assistant](https://www.home-assistant.io/integrations/google_assistant),

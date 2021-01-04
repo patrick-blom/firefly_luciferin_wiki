@@ -1,5 +1,5 @@
 ## What you don't need  
-<img align="right" width="100" height="100" src="https://github.com/sblantipodi/firefly_luciferin/blob/master/data/img/java_fast_screen_capture_logo.png">
+<img align="right" width="100" height="100" src="https://github.com/sblantipodi/firefly_luciferin/blob/master/data/img/java_fast_screen_capture_logo.png?raw=true">
 
 1) You don't need to be a developer
 2) You don't need to be an electrical engineer
@@ -26,7 +26,7 @@
 
 ## Connect the LED strip to your microcontroller  
 
-![CIRCUITS](https://github.com/sblantipodi/glow_worm_luciferin/blob/master/assets/img/ambilight_bb.png)
+![CIRCUITS](https://github.com/sblantipodi/glow_worm_luciferin/blob/master/assets/img/ambilight_bb.png?raw=true)
 Note: If you want to use the FULL firmware without using a USB cable you need to connect the 5V microcontroller's PIN to the power supply.
 If you have a low quality microcontroller, capacitor, resistance and logic level converter helps "stabilizing the circuit".
 WS2812B led strip is cheap and easy to use and it looks awesome, 5V is easy to manage with a microcontroller, buy a compatible power supply and you are set.  
@@ -46,7 +46,7 @@ NOTE: QuinLED-Dig-Uno must be used with Glow Worm FULL Firmware because it can't
 - Please download and install `Firefly Luciferin` on your PC, you can download it from [here](https://github.com/sblantipodi/firefly_luciferin/releases)
 - Once installed the software, start it and configure it via the graphical user interface. Defaults are good for most people.  
 
-![Luciferin](https://github.com/sblantipodi/firefly_luciferin/blob/master/data/img/settings_screen.png)
+![Luciferin](https://github.com/sblantipodi/firefly_luciferin/blob/master/data/img/settings_screen.png?raw=true)
 
 - Connect a USB cable to your ESP8266, double click the tray icon of the `Firefly Luciferin` software and **enjoy your bias lighting system**. If you don't want to connect a USB cable you need to continue reading the Wiki for MQTT/Wireless configuration.
 
