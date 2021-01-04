@@ -8,7 +8,7 @@
 [Supported GPIO](https://github.com/sblantipodi/glow_worm_luciferin/wiki/Supported-GPIO)  
 [Known Problems](https://github.com/sblantipodi/firefly_luciferin/wiki/Known-Problems)   
 [YouTube Videos](https://github.com/sblantipodi/firefly_luciferin/wiki/YouTube-Videos)  
-[Discord Server](https://github.com/sblantipodi/firefly_luciferin/wiki/Luciferin-Discord-server)  
+[Do you need help? Discord Server](https://github.com/sblantipodi/firefly_luciferin/wiki/Luciferin-Discord-server)  
 [Contribution](https://github.com/sblantipodi/firefly_luciferin/wiki/Contribute)   
 
 ### Advanced
