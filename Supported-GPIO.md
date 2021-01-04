@@ -5,5 +5,5 @@
 
 GPIO can be changed on the fly on both Light and Full firmware from the `Firefly Luciferin` settings.
 
-## How to change the GPIO in use?
+#### How to change the GPIO in use?
 
