@@ -12,7 +12,7 @@ From the "Devices" tab, double click on the GPIO you want to change, press enter
 <img width="400" src="https://github.com/sblantipodi/firefly_luciferin/blob/master/data/img/gpio1.jpg?raw=true">  
   
 ---
-Firefly Luciferin will reboot your microcontroller.  
+`Firefly Luciferin` will reboot your microcontroller.  
   
 <img width="400" src="https://github.com/sblantipodi/firefly_luciferin/blob/master/data/img/gpio2.jpg?raw=true">  
 
