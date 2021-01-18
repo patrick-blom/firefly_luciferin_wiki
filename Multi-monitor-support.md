@@ -1,5 +1,10 @@
 
-`Luciferin` supports multi monitor configurations.
+`Luciferin` supports multi monitor configurations (USB or Wireless through MQTT).  
+One microcontroller per monitor is required, this gives you the best possible experience.
+- No need for daisy chaining multiple monitors, no flying connection between monitors.
+- Easier wiring and easier to troubleshoot.
+- No bandwidth problems on the microcontroller for the big amount of LEDs needed.
+- Per monitor control, if you have a triple monitor setup, but you want to game on a single monitor, you can do it.
 
 ## How to setup multi monitor
 
