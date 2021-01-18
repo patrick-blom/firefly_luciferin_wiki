@@ -1,5 +1,5 @@
 
-`Luciferin` supports multi monitor.
+`Luciferin` supports multi monitor configurations.
 
 ## How to setup multi monitor
 
