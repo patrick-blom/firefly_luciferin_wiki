@@ -24,6 +24,6 @@ If you are experiencing flickering, please check your hardware connections, if t
 If you want to increase the maximum framerate, highering the baud rate can help. 
 ESP8266 with CH340 chip works well up to 1 million baud rate, ESP8266 with CP2102 chip works well up to 921600.
 
-If you higher the baud rate and your microcontroller doesn't support that speed, you will not be able to change it again until you manually reflash the firmware.
+**If you higher the baud rate and your microcontroller doesn't support that speed, you will not be able to change it again until you manually reflash the firmware.**
 
 			
