@@ -4,7 +4,7 @@
 [Firefly Luciferin Binaries](https://github.com/sblantipodi/firefly_luciferin/releases)   
 [Glow Worm Luciferin Binaries](https://github.com/sblantipodi/glow_worm_luciferin/releases)   
 [Update management](https://github.com/sblantipodi/firefly_luciferin/wiki/Luciferin-update-management)  
-[How to Set Up Multiple Monitors]https://github.com/sblantipodi/firefly_luciferin/wiki/Multi-monitor-support)  
+[How to Set Up Multiple Monitors](https://github.com/sblantipodi/firefly_luciferin/wiki/Multi-monitor-support)  
 [Supported GPIO and Baud Rate](https://github.com/sblantipodi/firefly_luciferin/wiki/Supported-GPIO-and-Baud-Rate)  
 [Linux Support](https://github.com/sblantipodi/firefly_luciferin/wiki/Linux-support)  
 [Known Issues](https://github.com/sblantipodi/firefly_luciferin/wiki/Known-Issues)   
