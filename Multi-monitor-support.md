@@ -6,7 +6,7 @@ One microcontroller per monitor is required, this gives you the best possible ex
 - No bandwidth problems on the microcontroller for the big amount of LEDs needed.
 - Per monitor control, if you have a triple monitor setup, but you want to game on a single monitor, you can do it.
 
-## How to setup multi monitor
+## How to setup multiple monitors
 
 - If you are using FULL firmware and you want to use the same MQTT server on all the monitors, please configure MQTT, skip this step if you are using the LIGHT firmware.
 <img width="400" src="https://github.com/sblantipodi/firefly_luciferin/blob/dynamic_gpio/data/img/multi_display/multimonitor_1.jpg?raw=true">  
