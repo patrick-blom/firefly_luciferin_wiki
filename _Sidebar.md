@@ -4,12 +4,12 @@
 [Firefly Luciferin Binaries](https://github.com/sblantipodi/firefly_luciferin/releases)   
 [Glow Worm Luciferin Binaries](https://github.com/sblantipodi/glow_worm_luciferin/releases)   
 [Update management](https://github.com/sblantipodi/firefly_luciferin/wiki/Luciferin-update-management)  
-[How to Set Up Multiple Monitors](https://github.com/sblantipodi/firefly_luciferin/wiki/Multi-monitor-support)  
+[How to set up multiple monitors](https://github.com/sblantipodi/firefly_luciferin/wiki/Multi-monitor-support)  
 [Supported GPIO and Baud Rate](https://github.com/sblantipodi/firefly_luciferin/wiki/Supported-GPIO-and-Baud-Rate)  
-[Linux Support](https://github.com/sblantipodi/firefly_luciferin/wiki/Linux-support)  
-[Known Issues](https://github.com/sblantipodi/firefly_luciferin/wiki/Known-Issues)   
-[YouTube Videos](https://github.com/sblantipodi/firefly_luciferin/wiki/YouTube-Videos)  
-[Discord Server](https://github.com/sblantipodi/firefly_luciferin/wiki/Luciferin-Discord-server)  
+[Linux support](https://github.com/sblantipodi/firefly_luciferin/wiki/Linux-support)  
+[Known issues](https://github.com/sblantipodi/firefly_luciferin/wiki/Known-Issues)   
+[YouTube videos](https://github.com/sblantipodi/firefly_luciferin/wiki/YouTube-Videos)  
+[Discord server](https://github.com/sblantipodi/firefly_luciferin/wiki/Luciferin-Discord-server)  
 [Contribution](https://github.com/sblantipodi/firefly_luciferin/wiki/Contribute)   
 
 ### Advanced
