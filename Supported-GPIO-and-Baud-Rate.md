@@ -21,6 +21,8 @@ From the "Devices" tab, double click on the GPIO you want to change, press enter
 
 If you are experiencing flickering, please check your hardware connections, if the hardware connections are well made lowering the baud rate may reduce the flicker.
 
+<img width="400" src="https://github.com/sblantipodi/firefly_luciferin/blob/master/data/img/baud_rate.jpg?raw=true">  
+
 If you want to increase the maximum framerate, highering the baud rate can help. 
 ESP8266 with CH340 chip works well up to 1 million baud rate, ESP8266 with CP2102 chip works well up to 921600.
 
