@@ -45,8 +45,9 @@ Again, the values in the following chart were eyeballed by myself, by looking at
 <img align="center" width="550" src="https://github.com/sblantipodi/firefly_luciferin/blob/master/data/img/white_balance/6.jpg?raw=true">
 
 ## Gamma correction
-<img align="center" width="330" src="https://github.com/sblantipodi/firefly_luciferin/blob/master/data/img/white_balance/gamma.jpg?raw=true">  
 The effect of gamma correction on an image: The original image was taken to varying powers, showing that powers larger than 1 make the shadows darker, while powers smaller than 1 make dark regions lighter.  
+
+<img align="center" width="330" src="https://github.com/sblantipodi/firefly_luciferin/blob/master/data/img/white_balance/gamma.jpg?raw=true">  
 
 You can find some basics on Gamma Correction [here.](https://en.wikipedia.org/wiki/Gamma_correction)
 
