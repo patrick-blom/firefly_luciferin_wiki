@@ -15,9 +15,10 @@ The first group of light sources are the black body illuminants. These are mater
 Black body illuminants produce a fairly even, continuous spectrum of colors, and so are perceived as "white" by our visual sense. Therefore, in the absence of comparative light sources in our scene, these should be rendered with warm, nearly white lights.
 
 Below is a chart of some common Kelvin Light Source temperatures coupled with their RGB Equivalents. These equivalents were arrived arbitrarily - I eyeballed them. There were a couple of converters I found online, each taking a different approach. One of them colored the sources by reference - you input a Kelvin temperature that you want to be "white" and the temperature to convert into an RGB value. Visually, however, the results were disappointing. They were scientifically correct, but failed to take into account the adaptability of the human visual sense. The other converter did even worse, ending up with greenish shades in the 4500K range that black body illuminants are incapable of creating. So, the alternative was to use my eye and judgment to arrive at these values.
-
+  
 <img align="center" width="550" src="https://github.com/sblantipodi/firefly_luciferin/blob/master/data/img/white_balance/1.jpg?raw=true">  
 
+  
 **Samples**  
 <img align="center" width="550" src="https://github.com/sblantipodi/firefly_luciferin/blob/master/data/img/white_balance/2.jpg?raw=true">  
 
