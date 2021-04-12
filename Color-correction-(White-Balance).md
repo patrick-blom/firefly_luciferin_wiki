@@ -17,14 +17,18 @@ Black body illuminants produce a fairly even, continuous spectrum of colors, and
 Below is a chart of some common Kelvin Light Source temperatures coupled with their RGB Equivalents. These equivalents were arrived arbitrarily - I eyeballed them. There were a couple of converters I found online, each taking a different approach. One of them colored the sources by reference - you input a Kelvin temperature that you want to be "white" and the temperature to convert into an RGB value. Visually, however, the results were disappointing. They were scientifically correct, but failed to take into account the adaptability of the human visual sense. The other converter did even worse, ending up with greenish shades in the 4500K range that black body illuminants are incapable of creating. So, the alternative was to use my eye and judgment to arrive at these values.
   
 <img align="center" width="550" src="https://github.com/sblantipodi/firefly_luciferin/blob/master/data/img/white_balance/1.jpg?raw=true">  
-#### Samples
+
+#### Samples  
+
 <img align="center" width="550" src="https://github.com/sblantipodi/firefly_luciferin/blob/master/data/img/white_balance/2.jpg?raw=true">  
 
 ## Fluorescent Lights
 These light sources produce light by creating a large amount of UV light via high voltage electrical discharge through a tube filled with rare gasses. The UV light excites materials coating the tube to produce light through fluorescence. These lights have broad but sometimes disjointed spectra. Depending on the quality of the tube and its intended purpose, the color can vary in ways that cannot be described by black body illumination. In fact, the disjointed nature of fluorescent spectra begin to exceed the ability to characterize these colors accurately in RGB. These values and samples are again based on my personal observations of different source types.
 
 <img align="center" width="550" src="https://github.com/sblantipodi/firefly_luciferin/blob/master/data/img/white_balance/3.jpg?raw=true">  
-#### Samples
+
+#### Samples  
+
 <img align="center" width="550" src="https://github.com/sblantipodi/firefly_luciferin/blob/master/data/img/white_balance/4.jpg?raw=true"> 
 
 ## Gaseous Light Sources
@@ -33,7 +37,9 @@ This final type of light source usually involves a metallic gas under pressure b
 Again, the values in the following chart were eyeballed by myself, by looking at various night lights around my city.
 
 <img align="center" width="550" src="https://github.com/sblantipodi/firefly_luciferin/blob/master/data/img/white_balance/5.jpg?raw=true">  
-#### Samples
+
+#### Samples  
+
 <img align="center" width="550" src="https://github.com/sblantipodi/firefly_luciferin/blob/master/data/img/white_balance/6.jpg?raw=true">
 
 ## Conclusion
