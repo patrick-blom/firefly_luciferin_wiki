@@ -8,9 +8,9 @@
 [Aspect ratio](https://github.com/sblantipodi/firefly_luciferin/wiki/Aspect-ratio)  
 [Supported GPIO and Baud Rate](https://github.com/sblantipodi/firefly_luciferin/wiki/Supported-GPIO-and-Baud-Rate)  
 [Linux support](https://github.com/sblantipodi/firefly_luciferin/wiki/Linux-support)  
+[Compatible hardware](https://github.com/sblantipodi/firefly_luciferin/wiki/Compatible-Hardware)  
 [Known issues](https://github.com/sblantipodi/firefly_luciferin/wiki/Known-Issues)   
 [YouTube videos](https://github.com/sblantipodi/firefly_luciferin/wiki/YouTube-Videos)  
-[Compatible hardware](https://github.com/sblantipodi/firefly_luciferin/wiki/Compatible-Hardware)  
 [Discord server](https://github.com/sblantipodi/firefly_luciferin/wiki/Luciferin-Discord-server)  
 [Contribution](https://github.com/sblantipodi/firefly_luciferin/wiki/Contribute)   
 
