@@ -18,3 +18,7 @@ Below is a chart of some common Kelvin Light Source temperatures coupled with th
 
 <img align="center" width="550" src="https://github.com/sblantipodi/firefly_luciferin/blob/master/data/img/white_balance/1.jpg?raw=true">  
 
+**Samples**
+<img align="center" width="550" src="https://github.com/sblantipodi/firefly_luciferin/blob/master/data/img/white_balance/2.jpg?raw=true">  
+
+
