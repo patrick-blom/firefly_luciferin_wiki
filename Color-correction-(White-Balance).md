@@ -44,5 +44,8 @@ Again, the values in the following chart were eyeballed by myself, by looking at
 
 <img align="center" width="550" src="https://github.com/sblantipodi/firefly_luciferin/blob/master/data/img/white_balance/6.jpg?raw=true">
 
+## Gamma correction
+You can find some basics on Gamma Correction [here.](https://en.wikipedia.org/wiki/Gamma_correction)
+
 ## Conclusion
 Remember, the values in the charts in this article are merely a starting point for your own explorations and experiments. Particularly with the black body illuminants, the color of lighting is all relative, so remember to adjust your values accordingly. 
