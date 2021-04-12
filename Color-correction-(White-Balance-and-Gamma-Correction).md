@@ -1,4 +1,4 @@
-<img align="center" width="450" src="https://github.com/sblantipodi/firefly_luciferin/blob/master/data/img/white_balance/1.jpg?raw=true">  
+<img align="center" width="450" src="https://github.com/sblantipodi/firefly_luciferin/blob/master/data/img/white_balance/lucigamma.jpg?raw=true">  
 
 Thanks for this article to [PlanetPixelEmporium.](http://planetpixelemporium.com/tutorialpages/light.html)
 
