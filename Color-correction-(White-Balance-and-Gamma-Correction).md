@@ -1,6 +1,6 @@
 <img align="center" width="450" src="https://github.com/sblantipodi/firefly_luciferin/blob/master/data/img/white_balance/luciferingamma.jpg?raw=true">  
   
-Thanks for this article to [PlanetPixelEmporium.](http://planetpixelemporium.com/tutorialpages/light.html)
+Thanks for the inspiration and for this article to [PlanetPixelEmporium.](http://planetpixelemporium.com/tutorialpages/light.html)
 
 ## Reproducing Real World Light
 Occasionally the question arises as to how to reproduce the "real" color of light sources in a rendered environment. I set out to research this subject, and found a lot of very contradictory information. Some approaches try to categorize light sources by their color temperature. Some then try to come up with some meaningful way of converting that color temperature to RGB values to use in programs like Lightwave or Cinema 4D. Ultimately these approaches all fail to take into account several realities that work against trying to come up with a unified approach to light coloring and rendering.
