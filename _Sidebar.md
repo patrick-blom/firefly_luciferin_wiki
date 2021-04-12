@@ -10,11 +10,11 @@
 [Linux support](https://github.com/sblantipodi/firefly_luciferin/wiki/Linux-support)  
 [Known issues](https://github.com/sblantipodi/firefly_luciferin/wiki/Known-Issues)   
 [YouTube videos](https://github.com/sblantipodi/firefly_luciferin/wiki/YouTube-Videos)  
+[Compatible hardware](https://github.com/sblantipodi/firefly_luciferin/wiki/Compatible-Hardware)  
 [Discord server](https://github.com/sblantipodi/firefly_luciferin/wiki/Luciferin-Discord-server)  
 [Contribution](https://github.com/sblantipodi/firefly_luciferin/wiki/Contribute)   
 
 ### Advanced
-[Compatible hardware](https://github.com/sblantipodi/firefly_luciferin/wiki/Compatible-Hardware)  
 [Remote access (MQTT)](https://github.com/sblantipodi/firefly_luciferin/wiki/Remote-Access)     
 [Home Assistant integration](https://github.com/sblantipodi/firefly_luciferin/wiki/Home-Automation-configs)   
 [Why is it FAST?](https://github.com/sblantipodi/firefly_luciferin/wiki/Very-fast-capture)   
