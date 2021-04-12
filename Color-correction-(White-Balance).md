@@ -1,3 +1,5 @@
+Thanks for this article to [planetpixelemporium](http://planetpixelemporium.com/tutorialpages/light.htm)
+
 ## Reproducing Real World Light
 Occasionally the question arises as to how to reproduce the "real" color of light sources in a rendered environment. I set out to research this subject, and found a lot of very contradictory information. Some approaches try to categorize light sources by their color temperature. Some then try to come up with some meaningful way of converting that color temperature to RGB values to use in programs like Lightwave or Cinema 4D. Ultimately these approaches all fail to take into account several realities that work against trying to come up with a unified approach to light coloring and rendering.
 
