@@ -6,6 +6,7 @@
 [Update management](https://github.com/sblantipodi/firefly_luciferin/wiki/Luciferin-update-management)  
 [How to set up multiple monitors](https://github.com/sblantipodi/firefly_luciferin/wiki/Multi-monitor-support)  
 [Aspect ratio](https://github.com/sblantipodi/firefly_luciferin/wiki/Aspect-ratio)  
+[Color correction](https://github.com/sblantipodi/firefly_luciferin/wiki/Color-correction-(White-Balance-and-Gamma-Correction))  
 [Supported GPIO and Baud Rate](https://github.com/sblantipodi/firefly_luciferin/wiki/Supported-GPIO-and-Baud-Rate)  
 [Linux support](https://github.com/sblantipodi/firefly_luciferin/wiki/Linux-support)  
 [Compatible hardware](https://github.com/sblantipodi/firefly_luciferin/wiki/Compatible-Hardware)  
