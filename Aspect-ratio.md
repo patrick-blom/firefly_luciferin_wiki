@@ -12,4 +12,4 @@ or on the fly by right clicking the tray icon:
 
 <img width="235" src="https://github.com/sblantipodi/firefly_luciferin/blob/master/data/img/aspect_ratio_tray.jpg?raw=true">  
 
-switching from one aspect ratio to another will restart your capture and it takes a few seconds.
+"Auto" enables black bars auto detection feature which automatically switches to the correct aspect ratio in real time. 

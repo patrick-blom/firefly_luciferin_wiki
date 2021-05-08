@@ -27,20 +27,15 @@ cards:
     type: horizontal-stack
   - cards:
       - entities:
-          - input_number.pc_animation_speed
+          - entity: input_number.pc_animation_speed
         type: entities
     type: horizontal-stack
   - cards:
-      - entity: input_boolean.solideffect
-        hold_action:
-          action: more-info
-        icon_height: 50px
-        show_icon: true
-        show_name: true
-        state_color: true
-        type: entity-button
       - entities:
           - input_select.gamma_select
+        type: entities
+      - entities:
+          - input_select.whitetemp_label_select
         type: entities
     type: horizontal-stack
   - cards:
@@ -64,13 +59,23 @@ cards:
         unit: FPS
     type: horizontal-stack
   - cards:
-    type: history-graph
-    entities:
-      - entity: sensor.firefly_luciferin_producing
-      - entity: sensor.firefly_luciferin_consuming
-      - entity: sensor.gw_fps
-    hours_to_show: 1
-    refresh_interval: 5
+      - entity: sensor.aspect_ratio
+        hold_action:
+          action: more-info
+        icon_height: 50px
+        show_icon: true
+        show_name: true
+        state_color: true
+        type: entity
+      - entity: input_boolean.solideffect
+        hold_action:
+          action: more-info
+        icon_height: 50px
+        show_icon: true
+        show_name: true
+        state_color: true
+        type: entity-button
+    type: horizontal-stack
 type: vertical-stack
 ```
 

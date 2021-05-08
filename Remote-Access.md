@@ -25,25 +25,10 @@ Those are the supported effects:
 - GlowWorm
 - GlowWormWifi
 - bpm
-- candy cane
-- confetti
-- cyclon rainbow
-- dots
-- fire
-- glitter
-- juggle
-- lightning
-- noise
-- police all
-- police one
 - rainbow
 - solid rainbow
-- rainbow with glitter
-- ripple
-- sinelon
+- mixed rainbow
 - solid
-- twinkle
-
 
 ## Connect to the WiFi and MQTT network.
 Thanks to [Arduino Bootstrapper](https://github.com/sblantipodi/arduino_bootstrapper), **Glow Worm Luciferin** firmware starts an access point for easy configuration via a mobile phone.  
