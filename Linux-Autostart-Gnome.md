@@ -14,12 +14,14 @@ You can simply install it using apt with the following command:
 ## How to configure Luciferin autostart
 
 - Configure `Luciferin` and ensure to enable `Auto start capture`
-  <img width="400" src="/data/img/autostart-capture.png">
+
+<img width="400" src="/data/img/autostart-capture.png">
 
 - Start Gnome-Tweaks and navigate to `Startup Applications`
 
 - Click the large "+"-Button and search for `Firefly Luciferin`
-  <img width="400" src="/data/img/gnome-tewaks-autostart.png">
+
+<img width="400" src="/data/img/gnome-tweaks-autostart.png">
   
 - Click add and close gnome-tweaks
 
