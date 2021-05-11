@@ -18,6 +18,7 @@
 ### Advanced
 [Remote access (MQTT)](https://github.com/sblantipodi/firefly_luciferin/wiki/Remote-Access)     
 [Home Assistant integration](https://github.com/sblantipodi/firefly_luciferin/wiki/Home-Automation-configs)   
+[Autostart under Linux (Gnome)](https://github.com/patrick-blom/firefly_luciferin_wiki/blob/master/Linux-Autostart-Gnome)   
 [Why is it FAST?](https://github.com/sblantipodi/firefly_luciferin/wiki/Very-fast-capture)   
 [Debug](https://github.com/sblantipodi/firefly_luciferin/wiki/Debug)   
 
